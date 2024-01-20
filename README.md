@@ -13,15 +13,3 @@
 | <img src="Icons/Android.png" width="50" height="50"> |      **Redmagic**       | **RedmagicOS** |       Active       |       14       | [Website]() |
 | <img src="Icons/Android.png" width="50" height="50"> |        **Meizu**        |  **FlymeOS**   |       Active       |       11       | [Website]() |
 | <img src="Icons/Android.png" width="50" height="50"> |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
-| <img src="Icons/Android.png" width="50" height="50"> |       **Google**        |   **Pixel**    |       Active       |       14       | [Website]() |
