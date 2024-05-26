@@ -9,7 +9,7 @@
 |  <img src="Icons/ColorOS.png" width="50" height="50">  | **Oppo/OnePlus/Realme** |  **ColorOS**   |       Active       |       14       | [Website]() |
 | <img src="Icons/OriginOS.png" width="50" height="50">  |        **Vivo**         |  **OriginOS**  |       Active       |       4        | [Website]() |
 | <img src="Icons/NothingOS.png" width="50" height="50"> |       **Nothing**       | **NothingOS**  |       Active       |      2.5       | [Website]() |
-|  <img src="Icons/Android.png" width="50" height="50">  |      **Motorola**       |    **MyUX**    |       Active       |       14       | [Website]() |
+|  <img src="Icons/HelloUI.png" width="50" height="50">  |      **Motorola**       |  **HelloUI**   |       Active       |       14       | [Website]() |
 |  <img src="Icons/Android.png" width="50" height="50">  |      **Redmagic**       | **RedmagicOS** |       Active       |       14       | [Website]() |
 |  <img src="Icons/Android.png" width="50" height="50">  |        **Meizu**        |  **FlymeOS**   |       Active       |       11       | [Website]() |
 |  <img src="Icons/Android.png" width="50" height="50">  |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
