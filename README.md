@@ -14,7 +14,7 @@
 | <img src="Icons/FlymeAIOS.png" width="50" height="50">  |  **Meizu**   | **FlymeAIOS**  |       Active       |       11       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |    **ZOS**     |       Active       |       14       | [Website]() |
 |    <img src="Icons/HiOS.png" width="50" height="50">    |  **Techno**  |    **HiOS**    |       Active       |       14       | [Website]() |
-|    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |    **ZOS**     |       Active       |       14       | [Website]() |
+|  <img src="Icons/OxygenOS.png" width="50" height="50">  | **OnePlus**  |  **OxygenOS**  |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |    **ZOS**     |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |    **ZOS**     |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |    **ZOS**     |       Active       |       14       | [Website]() |
