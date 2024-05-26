@@ -17,7 +17,7 @@
 |  <img src="Icons/OxygenOS.png" width="50" height="50">  | **OnePlus**  |   **OxygenOS**    |       Active       |       14       | [Website]() |
 |  <img src="Icons/RealmeUI.png" width="50" height="50">  |  **Realme**  |   **RealmeUI**    |       Active       |       5        | [Website]() |
 |  <img src="Icons/Android.png" width="50" height="50">   |   **Sony**   | **Stock Android** |       Active       |       14       | [Website]() |
-|    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |      **ZOS**      |       Active       |       14       | [Website]() |
+|    <img src="Icons/XOS.png" width="50" height="50">     | **Infinix**  |      **XOS**      |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |      **ZOS**      |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |      **ZOS**      |       Active       |       14       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |  **Nubia**   |      **ZOS**      |       Active       |       14       | [Website]() |
