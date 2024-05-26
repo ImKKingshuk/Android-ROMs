@@ -7,6 +7,7 @@
 |  <img src="Icons/HyperOS.png" width="50" height="50">   |  **Xiaomi**   |    **HyperOS**    |       Active       |      1.0       | [Website]() |
 |  <img src="Icons/MagicOS.png" width="50" height="50">   |   **Honor**   |    **MagicOS**    |       Active       |       8        | [Website]() |
 |  <img src="Icons/ColorOS.png" width="50" height="50">   |   **Oppo**    |    **ColorOS**    |       Active       |       14       | [Website]() |
+|    <img src="Icons/EMUI.png" width="50" height="50">    |  **Huawei**   |     **EMUI**      |       Active       |       14       | [Website]() |
 |  <img src="Icons/OriginOS.png" width="50" height="50">  |   **Vivo**    |   **OriginOS**    |       Active       |       4        | [Website]() |
 | <img src="Icons/NothingOS.png" width="50" height="50">  |  **Nothing**  |   **NothingOS**   |       Active       |      2.5       | [Website]() |
 |  <img src="Icons/HelloUI.png" width="50" height="50">   | **Motorola**  |    **HelloUI**    |       Active       |       14       | [Website]() |
