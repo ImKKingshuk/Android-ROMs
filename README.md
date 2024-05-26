@@ -13,3 +13,12 @@
 | <img src="Icons/RedmagicOS.png" width="50" height="50"> |      **Redmagic**       | **RedmagicOS** |       Active       |       14       | [Website]() |
 | <img src="Icons/FlymeAIOS.png" width="50" height="50">  |        **Meizu**        | **FlymeAIOS**  |       Active       |       11       | [Website]() |
 |    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
+|    <img src="Icons/ZOS.png" width="50" height="50">     |        **Nubia**        |    **ZOS**     |       Active       |       14       | [Website]() |
