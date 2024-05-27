@@ -27,4 +27,4 @@
 | <img src="Icons/FuntouchOS.png" width="50" height="50"> |    **Vivo**    | **FuntouchOS**  |       Active       |       4        |                         [Website](https://www.vivo.com/in/funtouch)                          |
 |  <img src="Icons/OriginOS.png" width="50" height="50">  |    **Vivo**    |  **OriginOS**   |       Active       |       4        |                         [Website](https://www.vivo.com.cn/originos)                          |
 |  <img src="Icons/HyperOS.png" width="50" height="50">   |   **Xiaomi**   |   **HyperOS**   |       Active       |      1.0       | [Website Global](https://www.mi.com/global/hyperos) [Website China](https://hyperos.mi.com/) |
-|  <img src="Icons/HyperOS.png" width="50" height="50">   |   **Xiaomi**   |    **MIUI**     |    Discontinued    |       14       | [Website Global](https://www.mi.com/global/hyperos) [Website China](https://hyperos.mi.com/) |
+|  <img src="Icons/HyperOS.png" width="50" height="50">   |   **Xiaomi**   |    **MIUI**     |    Discontinued    |       14       |  [Website Global](https://www.mi.com/global/miui) [Website China](https://hyperos.mi.com/)   |
