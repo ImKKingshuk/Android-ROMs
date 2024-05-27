@@ -23,4 +23,5 @@
 |  <img src="Icons/Android.png" width="50" height="50">   |    **Sony**    | **Stock Android** |       Active       |       14       |                  [Website]()                   |
 |    <img src="Icons/HiOS.png" width="50" height="50">    |   **Techno**   |     **HiOS**      |       Active       |       14       |                  [Website]()                   |
 |  <img src="Icons/OriginOS.png" width="50" height="50">  |    **Vivo**    |   **OriginOS**    |       Active       |       4        |                  [Website]()                   |
+| <img src="Icons/FuntouchOS.png" width="50" height="50"> |    **Vivo**    |  **FuntouchOS**   |       Active       |       4        |                  [Website]()                   |
 |  <img src="Icons/HyperOS.png" width="50" height="50">   |   **Xiaomi**   |    **HyperOS**    |       Active       |      1.0       |  [Website](https://www.mi.com/global/hyperos)  |
